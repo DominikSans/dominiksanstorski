@@ -1,29 +1,36 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Dominika+%F0%9F%91%8B;Backend+Developer+%7C+.NET+Lover;Creative+%26+Code+%F0%9F%8E%A8" alt="Typing SVG" />
-</h1>
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 
-<p align="center">
+<h3 align="center">
+  Hi, I'm Dominik
+</h3>
+
+<div align="center">
+ 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Dominika+%F0%9F%91%8B;Backend+Developer+%7C+.NET+Lover;Creative+%26+Code+%F0%9F%8E%A8" alt="Typing SVG" />
+
+<p>
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-00BFFF?style=flat-square" />
   <img src="https://img.shields.io/badge/Languages-English-00BFFF?style=flat-square" />
   <img src="https://img.shields.io/badge/Pronouns-He%2FHim-00BFFF?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=dominiksanstorski&color=00BFFF&style=flat-square&label=Profile+Views" />
 </p>
-
----
-
+</div>
+  
 ## About Me
-
-<img align="right" src="https://camo.githubusercontent.com/cf34bff7a1524df8ccb4e2f0c70edda3702a88305f98b82bcf7903591cd6b706/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" width="250px" alt="coding animation"/>
-
-💡  I love exploring new technologies and building creative software solutions.
-🎓  Focused on Backend Development with a passion for clean, scalable code.
-🌱  Currently learning Software Architecture and deepening my .NET skills.
-🎨  I'm also a Graphic Designer — creativity meets code in everything I do.
-👯  Looking to collaborate on open source projects — let's build something cool!
-💬  Ask me about C#, .NET, or anything backend-related.
-⚡  Fun fact: I never thought I'd become a .NET programmer — and now I love it!
-✉️  Reach me at: Email
-<br clear="right"/>
+<br/>
+ 
+💡 &nbsp;I love exploring new technologies and building creative software solutions.\
+🎓 &nbsp;Focused on Backend Development with a passion for clean, scalable code.\
+🌱 &nbsp;Currently learning **Software Architecture** and deepening my **.NET** skills.\
+🎨 &nbsp;I'm also a **Graphic Designer** — creativity meets code in everything I do.\
+👯 &nbsp;Looking to collaborate on open source projects — let's build something cool!\
+💬 &nbsp;Ask me about **C#**, **.NET**, or anything **backend-related**.\
+⚡ &nbsp;Fun fact: I never thought I'd become a .NET programmer — and now I love it!\
+✉️ &nbsp;Reach me at: [Email](mailto:hopelik-rose@hotmail.com)
+ 
+---
 
 🐍 Contribution Snake
 <div align="center">
@@ -34,58 +41,45 @@
   </picture>
 </div>
 
-## 🛠 Tech Stack
+---
  
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <h4>👨‍💻 Programming Languages</h4>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="50" title="C#"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="50" title="C"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" title="Java"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" title="Kotlin"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" title="Python"/>
-    </td>
-    <td align="center" width="50%">
-      <h4>🌐 Frontend</h4>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="50" title="HTML5"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="50" title="CSS3"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" title="JavaScript"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="50" title="React"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h4>⚙️ Frameworks & Backend</h4>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="50" title="Django"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="50" title=".NET"/>
-    </td>
-    <td align="center">
-      <h4>🗄️ Databases</h4>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" title="MongoDB"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MariaDB/MySQL" width="50" title="MariaDB / MySQL"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h4>🎨 Design & Creative Tools</h4>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="50" title="Photoshop"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="50" title="Illustrator"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="50" title="After Effects"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="50" title="Premiere Pro"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="Adobe XD" width="50" title="Adobe XD"/>
-    </td>
-    <td align="center">
-      <h4>🧰 Tools & IDEs</h4>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" title="VS Code"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="50" title="IntelliJ"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" title="Git"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="50" title="GitHub"/>
-    </td>
-  </tr>
-</table>
+## 🛠 &nbsp;Tech Stack
+ 
+#### 👨‍💻 Languages
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+ 
+#### 🖥️ Frameworks & Backend
+![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ 
+#### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ 
+#### 🎨 Design & Creative Tools
+![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-%239999FF.svg?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-%239999FF.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobe-xd&logoColor=white)
+ 
+#### 🧰 Tools & IDEs
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
  
 ---
+
 ⚙️ GitHub Analytics
 <div align="center">
   <a href="https://github.com/dominiksanstorski">
@@ -98,6 +92,8 @@
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dominiksanstorski&custom_title=Dominika's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ffffff&area_color=00BFFF&title_color=00BFFF&area=true" alt="activity graph"/>
 </div>
+
+---
 
 🤝 Connect with Me
 <div align="center">
@@ -115,9 +111,9 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  <br/>
+
   <img src="https://img.shields.io/badge/Thanks%20for%20visiting!%20%E2%AD%90-00BFFF?style=flat"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Star%20some%20repos%20if%20you%20find%20them%20helpful!-00BFFF?style=flat"/>
 </div>
+---
