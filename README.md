@@ -3,19 +3,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-00BFFF?style=flat-square" />
   <img src="https://img.shields.io/badge/Languages-English-00BFFF?style=flat-square" />
   <img src="https://img.shields.io/badge/Pronouns-He%2FHim-00BFFF?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=Dominika&color=00BFFF&style=flat-square&label=Profile+Views" />
 </p>
 
----
 
-## <img src="https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width="35px"> About Me
+### 👨🏻‍💻 &nbsp;About Me
 
 <img align="right" src="https://camo.githubusercontent.com/cf34bff7a1524df8ccb4e2f0c70edda3702a88305f98b82bcf7903591cd6b706/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" width="380px" alt="coding animation"/>
 
@@ -30,15 +25,10 @@
 
 <br clear="right"/>
 
----
-
-## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://github.com/Dominika/Dominika/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
----
 
 ## 🛠 Tech Stack
 
