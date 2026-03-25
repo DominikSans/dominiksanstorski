@@ -3,19 +3,23 @@ dominiksanstorski
 
   
   <h2 align="center">
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
-<img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/master/ai.gif" width="590px" height="60px">
+## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
 
-Meticulous and motivated undergraduate student , indulged in competitive programming,my field of interest is Computer Vision and my B-Tech is focused in Computer Science.I am an open-source enthusiast. I have worked as project admin/mentor in various organisation.
-<img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
-  
+<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
+ <p align="left">
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
+  <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
+</p>
 
-🔭 I have  worked as a 
+- 🔭 I’m currently working on my side projects
+- 🌱 I’m currently learning software architecture
+- 👯 I’m looking to collaborate on your open source projects
+- 💬 Ask me about C#
+- 📫 How to reach me: Contact part
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I never thought I would become a .net programmer!
 
-Project admin at StudentCode-in program 2020, Mentor at HakinCodes 2020, Mentor at SLOP'2020, Mentor at NJACK NWoC 2020(IIT Patna), Project admin at Script, Winter of code 20-21, DevScript Winter of Code S01, Project Mentor at Winter of Code 1.0, Mentor at UAceIt Winter of Mentorship and GSSOC 2021.
-
-
-🌟 STAR THE REPOS IF YOU LIKE 🌟
+<br>
 
 ## Contribution Snake 
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
