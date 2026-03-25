@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Dominika+%F0%9F%91%8B;Backend+Developer+%7C+.NET+Lover;Creative+%26+Code+%F0%9F%8E%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Dominik+%F0%9F%91%8B;Backend+Developer+%7C+.NET+Lover;Creative+%26+Code+%F0%9F%8E%A8" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -107,19 +107,21 @@
 
 ---
 
-## 🤝 Connect with Me
 
-<p align="center">
+<div align="center">
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/-Portfolio-00BFFF?style=flat&logo=Google-Chrome&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/dominika">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:hopelik-rose@hotmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/>
   </a>
-</p>
+  <a href="https://t.me/dominika">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
