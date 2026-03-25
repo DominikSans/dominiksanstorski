@@ -1,18 +1,19 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Dominik+%F0%9F%91%8B;Backend+Developer+%7C+.NET+Lover;Creative+%26+Code+%F0%9F%8E%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Dominika+%F0%9F%91%8B;Backend+Developer+%7C+.NET+Lover;Creative+%26+Code+%F0%9F%8E%A8" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-00BFFF?style=flat-square" />
   <img src="https://img.shields.io/badge/Languages-English-00BFFF?style=flat-square" />
   <img src="https://img.shields.io/badge/Pronouns-He%2FHim-00BFFF?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=Dominika&color=00BFFF&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=dominiksanstorski&color=00BFFF&style=flat-square&label=Profile+Views" />
 </p>
 
+---
 
-### 👨🏻‍💻 &nbsp;About Me
+## About Me
 
-<img align="right" src="https://camo.githubusercontent.com/cf34bff7a1524df8ccb4e2f0c70edda3702a88305f98b82bcf7903591cd6b706/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" width="380px" alt="coding animation"/>
+<img align="right" src="https://camo.githubusercontent.com/cf34bff7a1524df8ccb4e2f0c70edda3702a88305f98b82bcf7903591cd6b706/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" width="250px" alt="coding animation"/>
 
 💡 &nbsp;I love exploring new technologies and building creative software solutions.\
 🎓 &nbsp;Focused on Backend Development with a passion for clean, scalable code.\
@@ -21,18 +22,27 @@
 👯 &nbsp;Looking to collaborate on open source projects — let's build something cool!\
 💬 &nbsp;Ask me about **C#**, **.NET**, or anything **backend-related**.\
 ⚡ &nbsp;Fun fact: I never thought I'd become a .NET programmer — and now I love it!\
-✉️ &nbsp;Reach me at: [Email](mailto:hopelik-rose@hotmail.com)
+✉️ &nbsp;Reach me at: [Email](mailto:<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="8be3e4fbeee7e2e0a6f9e4f8eecbe3e4ffe6eae2e7a5e8e4e6">[email&#160;protected]</a>)
 
 <br clear="right"/>
 
+---
+
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://github.com/Dominika/Dominika/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dominiksanstorski/dominiksanstorski/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dominiksanstorski/dominiksanstorski/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/dominiksanstorski/dominiksanstorski/output/github-snake.svg" />
+  </picture>
 </p>
 
+---
 
 ## 🛠 Tech Stack
 
-### 👩‍💻 Programming Languages
+### 👨‍💻 Programming Languages
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="50" title="C#"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="50" title="C"/>
@@ -83,18 +93,10 @@
 ## ⚙️ GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Dominika">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dominika&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dominika&layout=compact&langs_count=8&theme=tokyonight"/>
+  <a href="https://github.com/dominiksanstorski">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dominiksanstorski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dominiksanstorski&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Dominika/Dominika/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
@@ -102,32 +104,28 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dominika&custom_title=Dominika's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ffffff&area_color=00BFFF&title_color=00BFFF&area=true" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dominiksanstorski&custom_title=dominiksanstorski's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ffffff&area_color=00BFFF&title_color=00BFFF&area=true" alt="activity graph"/>
 </p>
 
 ---
 
+## 🤝 Connect with Me
 
-<div align="center">
+<p align="center">
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/-Portfolio-00BFFF?style=flat&logo=Google-Chrome&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/dominika">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:hopelik-rose@hotmail.com">
+  <a href="/cdn-cgi/l/email-protection#bdd5d2cdd8d1d4d690cfd2ced8fdd5d2c9d0dcd4d193ded2d0">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://t.me/dominika">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-</div>
+</p>
 
 ---
 
 <p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   <br/>
-  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!%20%E2%AD%90-00BFFF?style=flat"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Star%20some%20repos%20if%20you%20find%20them%20helpful!-00BFFF?style=flat"/>
-</p>
+  <img src="https://img.shields.io/badge/Thanks%20for%20v
