@@ -126,7 +126,6 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   <br/>
   <img src="https://img.shields.io/badge/Thanks%20for%20visiting!%20%E2%AD%90-00BFFF?style=flat"/>
   &nbsp;
