@@ -34,38 +34,58 @@
   </picture>
 </div>
 
-🛠 Tech Stack
-<div align="center">
-👨‍💻 Programming Languages
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="50" title="C#"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="50" title="C"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" title="Java"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" title="Kotlin"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" title="Python"/>
-🌐 Frontend
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="50" title="HTML5"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="50" title="CSS3"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" title="JavaScript"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="50" title="React"/>
-⚙️ Frameworks & Backend
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="50" title="Django"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="50" title=".NET"/>
-🗄️ Databases
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" title="MongoDB"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MariaDB/MySQL" width="50" title="MariaDB / MySQL"/>
-🎨 Design & Creative Tools
-<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="50" title="Photoshop"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="50" title="Illustrator"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="50" title="After Effects"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="50" title="Premiere Pro"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="Adobe XD" width="50" title="Adobe XD"/>
-🧰 Tools & IDEs
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" title="VS Code"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="50" title="IntelliJ"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" title="Git"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="50" title="GitHub"/>
-</div>
-
+## 🛠 Tech Stack
+ 
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <h4>👨‍💻 Programming Languages</h4>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="50" title="C#"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="50" title="C"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" title="Java"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" title="Kotlin"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" title="Python"/>
+    </td>
+    <td align="center" width="50%">
+      <h4>🌐 Frontend</h4>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="50" title="HTML5"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="50" title="CSS3"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" title="JavaScript"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="50" title="React"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h4>⚙️ Frameworks & Backend</h4>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="50" title="Django"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="50" title=".NET"/>
+    </td>
+    <td align="center">
+      <h4>🗄️ Databases</h4>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" title="MongoDB"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MariaDB/MySQL" width="50" title="MariaDB / MySQL"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h4>🎨 Design & Creative Tools</h4>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="50" title="Photoshop"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="50" title="Illustrator"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="50" title="After Effects"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="50" title="Premiere Pro"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="Adobe XD" width="50" title="Adobe XD"/>
+    </td>
+    <td align="center">
+      <h4>🧰 Tools & IDEs</h4>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" title="VS Code"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="50" title="IntelliJ"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" title="Git"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="50" title="GitHub"/>
+    </td>
+  </tr>
+</table>
+ 
+---
 ⚙️ GitHub Analytics
 <div align="center">
   <a href="https://github.com/dominiksanstorski">
